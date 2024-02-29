@@ -1,0 +1,29 @@
+body{
+   background: aqua; 
+   font-family: Arial;
+   font-size: 150%;
+   padding: 0px;
+   margin: 0
+}
+nav{
+    background: white;
+    text-align: center;
+    margin: 0;
+    padding: 50px
+}
+.doc{
+    background: white;
+    padding: 15px;
+    margin: 100px;
+    box-shadow: 15px 15px 10px gray;
+}
+
+figure{
+    display: flex;
+    justify-content: center;
+    aling-content: center;
+}
+
+p{
+    text-align: center;
+}
